@@ -71,7 +71,7 @@ Diplomas & Specializations — European Open University
 
 🌐 Portfolio: jaiprakashmd.com
 
-✉️ Email: (add here if you want public)
+✉️ Email: jaiprakashmdoficial@gmail.com
 
 📱 Phone / WhatsApp: +91 63795 70398
 
