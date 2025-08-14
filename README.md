@@ -1,88 +1,35 @@
-🌍 Dr. Jai Prakash M.D — Portfolio
+🌍 Dr. Jai Prakash M.D
 
-🔗 Visit My Website → https://jaiprakashmd.com
+🔗 https://jaiprakashmd.com
 
 “Diagnose with stethoscopes. Debug with code. I’ll do both.”
 
-I’m Dr. Jai Prakash, an MBBS Candidate at Georgian National University (SEU).
-I merge medicine with technology to create impactful solutions at the intersection of healthcare and innovation.
-
-🧑‍⚕️ About Me
-
-I’m passionate about using clinical knowledge and software engineering to craft digital solutions that matter.
-
-🩺 Medical expertise + technical innovation
-
-👨‍⚕️ Hands-on experience in patient care & healthcare systems
-
-💻 Web applications for education & secure communication
-
-📊 Strong foundation in data visualization, server management, and research tools
+I’m Dr. Jai Prakash, an MBBS Candidate at SEU, blending medicine + technology to build impactful healthcare and digital solutions.
 
 ⚡ Skills
-🏥 Medical Expertise
 
-Clinical medicine & diagnostics
+🏥 Clinical medicine, research, aviation medicine
 
-Medical research methodologies
+💻 HTML, CSS, Java, JavaScript, Node.js
 
-Aviation medicine
-
-Physical therapy
-
-Embryology
-
-💻 Technical Expertise
-
-Frontend: HTML5, CSS3, JavaScript
-
-Backend: Java, Node.js
-
-Design: Responsive UI/UX, medical web applications
-
-Infrastructure: Linux servers, Raspberry Pi deployment, cloud hosting
+☁️ Linux servers, Raspberry Pi, cloud hosting
 
 🚀 Projects
-🔹 MeCHAT
 
-💬 A secure messaging app with end-to-end encryption for confidential medical & academic communication. (Coming soon!)
+MeCHAT – Secure messaging app (coming soon)
 
-🔹 Webistzu (https://webistzu.com)
+Webistzu – Digital presence platform(https://webistzu.com)
 
-🌐 A digital presence platform helping startups and students build their online footprint.
+MedEd Platform – 3D medical education tool (in progress)
 
-🔹 MedEd Platform
+🎓 Education
 
-📚 An interactive medical education tool featuring 3D anatomy models, case studies, and collaboration features. (In development)
+MBBS Candidate – Georgian National University (SEU)
 
-🎓 Education & Certifications
-
-📍 Georgian National University (SEU) – MBBS Candidate
-
-Diplomas & Specializations — European Open University
-
-✈️ Aviation Medicine
-
-🦴 Doctor of Physical Therapy
-
-🧬 Embryology
+Diplomas: Aviation Medicine, Physical Therapy, Embryology
 
 📬 Contact
 
-🌐 Portfolio: https://jaiprakashmd.com
-
-✉️ Email: jaiprakashmdoficial@gmail.com
-
-📱 Phone / WhatsApp: +91 63795 70398
-
-🔗 LinkedIn: (add link)
-
-📍 Locations: Chennai, India | Tbilisi, Georgia
-
-
-⭐ Support
-
-If you like my work, please star this repo ⭐ or connect with me.
-I’m open to collaborations where medicine meets technology.
+🌐 Portfolio • 📱 +91 63795 70398 • 🔗 LinkedIn (add link)
 
 ✨ Blending medicine and code to heal, build, and inspire.
