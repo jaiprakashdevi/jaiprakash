@@ -1,6 +1,6 @@
 🌍 Dr. Jai Prakash M.D — Portfolio
 
-🔗 Visit My Website → jaiprakashmd.com
+🔗 Visit My Website → https://jaiprakashmd.com
 
 “Diagnose with stethoscopes. Debug with code. I’ll do both.”
 
@@ -69,7 +69,7 @@ Diplomas & Specializations — European Open University
 
 📬 Contact
 
-🌐 Portfolio: jaiprakashmd.com
+🌐 Portfolio: https://jaiprakashmd.com
 
 ✉️ Email: jaiprakashmdoficial@gmail.com
 
