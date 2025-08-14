@@ -47,7 +47,7 @@ Infrastructure: Linux servers, Raspberry Pi deployment, cloud hosting
 
 💬 A secure messaging app with end-to-end encryption for confidential medical & academic communication. (Coming soon!)
 
-🔹 Webistzu
+🔹 Webistzu (https://webistzu.com)
 
 🌐 A digital presence platform helping startups and students build their online footprint.
 
@@ -79,13 +79,6 @@ Diplomas & Specializations — European Open University
 
 📍 Locations: Chennai, India | Tbilisi, Georgia
 
-🛠 Getting Started
-
-To run this project locally:
-
-git clone https://github.com/jaiprakashmd/portfolio.git
-cd portfolio
-# Open index.html in your browser or start a dev server
 
 ⭐ Support
 
